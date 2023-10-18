@@ -45,6 +45,7 @@ nav ul li a:hover {
     max-width: 800px;
     margin: 10px auto;
     padding: 10px;
+    text-align: center;
 }
 
 .gif {
