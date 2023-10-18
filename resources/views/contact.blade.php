@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ URL::asset('css/app.css') }}">
-    <title>Welcome Page</title>
+    <title>Contact Page</title>
 </head>
 <body>
     <nav>
@@ -18,7 +18,8 @@
     </nav>
 
     <div class="container">
-        <h1>1st Laravel Activity - Ramos, Marc Emmanuel S.J.</h1>
+        <h2>You can contact me at:</h2>
+        <h3>marcemmanuel.ramos.cics@ust.edu.ph <br>09999999999</h3>
     </div>
     <div class="gif">
         <img src="{{ asset('gif/snoop.gif') }}" alt="Example GIF">

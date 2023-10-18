@@ -43,9 +43,12 @@ nav ul li a:hover {
 
 .container {
     max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.gif {
+    display: flex;
+    justify-content: center;
     align-items: center;
-    /* display:flex;
-    justify-content:center; */
 }

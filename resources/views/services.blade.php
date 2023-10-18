@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ URL::asset('css/app.css') }}">
-    <title>Welcome Page</title>
+    <title>Services Page</title>
 </head>
 <body>
     <nav>
@@ -18,7 +18,7 @@
     </nav>
 
     <div class="container">
-        <h1>1st Laravel Activity - Ramos, Marc Emmanuel S.J.</h1>
+        <h1>This is the services page</h1>
     </div>
     <div class="gif">
         <img src="{{ asset('gif/snoop.gif') }}" alt="Example GIF">
